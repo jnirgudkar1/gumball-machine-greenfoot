@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ randompicking()
+comment0.text=\ public\ RandomPicker()\r\n\ \ \ \ {\ \ \r\n\ \ \ \ randompicking();\r\n}
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ pickRandom()
+numComments=3
